@@ -1,4 +1,4 @@
-# Akku-Craft Documentation Hub
+# Akku-Craft Documentation
 
 Welcome to the central place for everything related to **Akku-Craft**.
 
